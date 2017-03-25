@@ -1,5 +1,6 @@
 {
     "buildNpmdoc":"yo",
+    "buildNpmdocMain": "/lib/router.js",
     "devDependencies": {
         "yo": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
